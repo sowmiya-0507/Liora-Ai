@@ -1,0 +1,10 @@
+{
+  "name": "Liora AI",
+  "description": "An honest, calm AI companion and deadline manager that keeps you on track with customized alerts, a beautiful dashboard, and interactive voice calls.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
